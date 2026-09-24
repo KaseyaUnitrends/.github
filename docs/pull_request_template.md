@@ -40,6 +40,7 @@ For example which **migration scripts** needs to run.]
 ## PR checklist
 
 - [ ] Added `Ready For Review` label to the PR.
+- [ ] Reviewed and published using `ut-pr-workflow`
 - [ ] Fully described solution in the description.
 - [ ] Added tests.
 - [ ] Updated documentation.
